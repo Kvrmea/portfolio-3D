@@ -1,16 +1,55 @@
-# React + Vite
+# 🚀 Portfolio 3D - Hugo MUNOZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur le dépôt de mon portfolio personnel. C'est un projet développé avec **React** et **Three.js** pour offrir une expérience immersive et interactive tout en présentant mes compétences et mes projets.
 
-Currently, two official plugins are available:
+## 🌟 Aperçu
+- **Expérience 3D Interactive** : Intégration de modèles 3D avec Three.js (React Three Fiber).
+- **Design Moderne** : Interface fluide et responsive réalisée avec Tailwind CSS.
+- **Formulaire de Contact** : Entièrement fonctionnel via l'API Web3Forms.
+- **Optimisé** : Développé avec Vite pour des performances de chargement rapides.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Technologie               | Usage |
+|:--------------------------| :--- |
+| **React**                 | Framework UI |
+| **Three.js / R3F / GSAP** | Rendu 3D et animations |
+| **Tailwind CSS**          | Styling et Responsive Design |
+| **Web3Forms**             | Gestion de l'envoi d'emails |
+| **Vite**                  | Build tool et serveur de dev |
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation Locale
+
+Si tu souhaites cloner le projet et le faire tourner sur ta machine :
+
+1. **Cloner le repository** :
+   ```bash
+   git clone [https://github.com/TON_PSEUDO/TON_REPO.git](https://github.com/TON_PSEUDO/TON_REPO.git)
+   cd TON_REPO
+   
+2. **Install** :
+    ```bash
+    npm install
+3. **Lancer le serveur** :
+    ```bash
+   npm run dev
+4.
+   Le projet sera accessible sur `http://localhost:5173`.
+
+---
+
+## 📩 Contact
+
+Le formulaire de contact sur le site m'envoie directement un email. N'hésite pas à tester ou à me contacter pour toute opportunité !
+
+- **Nom** : Hugo MUNOZ
+- **Email** : hugo.munoz@epitech.eu
+- **LinkedIn** : https://www.linkedin.com/in/hugo-munoz03/
+
+---
+
+Dépôt créé dans le cadre de mon apprentissage du développement web moderne. 💻
