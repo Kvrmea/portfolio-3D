@@ -56,9 +56,16 @@ function Hero() {
                             <h1>into Real Projects</h1>
                             <h1>that Deliver Results</h1>
                         </div>
-                            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none max-w-[650px] -mr-32">
-                                Hi, I'm Hugo. As a FullStack Developer driven by the convergence of AI, 3D technology, and immersive experiences, I craft scalable applications with captivating, interactive front-ends.
+                        <div className="text-white-50 md:text-xl relative z-10 max-w-[650px] -mr-32 space-y-3">
+                            <p className="pointer-events-none">
+                                Hi, I'm Hugo. I'm a Full-Stack developer with a strong preference for
+                                <span className="text-white font-semibold"> Back-End architecture</span> and a passion for
+                                <span className="text-white font-semibold"> Artificial Intelligence</span>. I love leveraging AI tools to build smooth, optimized, and next-generation web applications.
                             </p>
+                            <p className="text-sm md:text-base text-purple-400 font-medium pt-1">
+                                🚀 Looking for a 14-month Full-Stack apprenticeship starting September 2026.
+                            </p>
+                        </div>
                         <Button
                             className="md:w-80 md:h-16 w-60 h-12"
                             id="button"

@@ -25,9 +25,9 @@
 ];
 
  const counterItems = [
-    { value: 2, suffix: "+", label: "Years of Experience" },
+    { value: 1, suffix: "+", label: "Years of Experience" },
     { value: 7, suffix: "", label: "Completed Projects" },
-    { value: 15, suffix: "+", label: "Tech Stack Mastered" },
+    { value: 9, suffix: "+", label: "Tech Stack Mastered" },
     { value: 80, suffix: "h/sem", label: "Logtime (Epitech vibe)" },
 ];
 
