@@ -63,8 +63,7 @@ function Hero() {
                                 <span className="text-white font-semibold"> Artificial Intelligence</span>. I love leveraging AI tools to build smooth, optimized, and next-generation web applications.
                             </p>
                             <p className="text-sm md:text-base text-purple-400 font-medium pt-1">
-                                🚀 Looking for a 14-month Full-Stack apprenticeship starting September 2026.
-                            </p>
+                                🚀 Available for a Full-Stack apprenticeship starting September 2026 (Flexible rhythm & duration).                            </p>
                         </div>
                         <Button
                             className="md:w-80 md:h-16 w-60 h-12"
