@@ -25,7 +25,7 @@
 ];
 
  const counterItems = [
-    { value: 1, suffix: "+", label: "Years of Experience" },
+    { value: 2, suffix: "+", label: "Years of Experience" },
     { value: 7, suffix: "", label: "Completed Projects" },
     { value: 9, suffix: "+", label: "Tech Stack Mastered" },
     { value: 80, suffix: "h/sem", label: "Logtime (Epitech vibe)" },
@@ -149,12 +149,25 @@ const techStackIcons = [
 
 const expCards = [
     {
+        // OPENCLASSROOMS
+        review: "Pursuing my State-certified Full Stack Application Developer degree (RNCP Level 6 / Bachelor level) through project-based learning, focusing on autonomous delivery, clean code, and advanced web architecture.",
+        imgPath: "/images/openclassroom_bg.png",
+        logoPath: "/images/openclassroom.png",
+        title: "Full Stack Application Developer Student",
+        date: "July 2026 - Present",
+        responsibilities: [
+            "Building production-ready Full Stack applications following professional software engineering standards.",
+            "Implementing agile workflows, autonomous project management, and test-driven development.",
+            "Preparing state-recognized RNCP degree certification through hands-on, evaluated technical projects.",
+        ],
+    },
+    {
         // WEB@CADEMIE BY EPITECH
         review: "The Web@cademie by Epitech instilled in me a deep technical rigor and the 'learning how to learn' mindset. Through intensive sprints, I developed the autonomy to master complex web ecosystems and deliver high-quality code.",
         imgPath: "/images/epitech_bg.png",
         logoPath: "/images/webacademie_logo.png",
         title: "Full Stack Web Developer Student",
-        date: "November 2025 - Present",
+        date: "November 2025 - June 2026",
         responsibilities: [
             "Mastered Full Stack environments (PHP/Laravel, JavaScript/React/Java/Docker/, SQL stack) through fast-paced, project-driven learning.",
             "Developed high-quality, standardized code by following strict industry norms and peer-review processes.",
@@ -162,7 +175,7 @@ const expCards = [
         ],
     },
     {
-        // ADA TECH SCHOOL (Ou autre expérience/passion)
+        // ADA TECH SCHOOL
         review: "My time at Ada Tech School introduced me to collaborative development and agile methodologies in an inclusive and modern tech environment.",
         imgPath: "/images/ada_bg.png",
         logoPath: "/images/ada_logo.png",
