@@ -38,7 +38,7 @@ const NavBar = () => {
                 {/* Conteneur flex pour aligner les deux boutons côte à côte sans casser le reste de la navbar */}
                 <div className="flex items-center gap-4">
                     <a
-                        href="/MUNOZ_Hugo_CV.pdf"
+                        href="/CV-HugoMunoz-OCR.pdf"
                         className="contact-btn group"
                         target="_blank"
                         rel="noopener noreferrer"
