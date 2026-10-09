@@ -148,7 +148,7 @@ const techStackIcons = [
 ];
 
 const expCards = [
-   /* {
+    {
         // OPENCLASSROOMS
         review: "Pursuing my State-certified Full Stack Application Developer degree (RNCP Level 6 / Bachelor level) through project-based learning, focusing on autonomous delivery, clean code, and advanced web architecture.",
         imgPath: "/images/openclassroom_bg.png",
@@ -160,7 +160,7 @@ const expCards = [
             "Implementing agile workflows, autonomous project management, and test-driven development.",
             "Preparing state-recognized RNCP degree certification through hands-on, evaluated technical projects.",
         ],
-    },*/
+    },
     {
         // WEB@CADEMIE BY EPITECH
         review: "The Web@cademie by Epitech instilled in me a deep technical rigor and the 'learning how to learn' mindset. Through intensive sprints, I developed the autonomy to master complex web ecosystems and deliver high-quality code.",
