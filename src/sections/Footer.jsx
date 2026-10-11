@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="footer-container">
                 <div className="flex flex-col justify-center md:items-start items-center">
-                    <a href="/CV_HugoMunoz_openclassroom.pdf"
+                    <a href="/CV_HugoMunoz.pdf"
                        target="_blank"
                        rel="noopener noreferrer"
                        className="hover:text-white transition-colors"
