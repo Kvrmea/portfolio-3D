@@ -22,7 +22,7 @@ const Contact = () => {
 
         // On utilise l'API Web3Forms avec ta clé
         const formData = new FormData(formRef.current);
-        formData.append("access_key", "68f42d39-552e-4a0f-94f3-94f1c22e0682");
+        formData.append("access_key", "03965029-f270-4437-b292-15744aff6590");
 
         try {
             const response = await fetch("https://api.web3forms.com/submit", {
