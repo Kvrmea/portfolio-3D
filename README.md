@@ -47,7 +47,7 @@ Si tu souhaites cloner le projet et le faire tourner sur ta machine :
 Le formulaire de contact sur le site m'envoie directement un email. N'hésite pas à tester ou à me contacter pour toute opportunité !
 
 - **Nom** : Hugo MUNOZ
-- **Email** : hugo.munoz@epitech.eu
+- **Email** : contact@hugomnz.dev
 - **LinkedIn** : https://www.linkedin.com/in/hugo-munoz03/
 
 ---
